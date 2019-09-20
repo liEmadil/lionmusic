@@ -1,6 +1,6 @@
 owner=255429901891403778
-prefix=l
-game=Lion
+prefix=s
+game=p6k
 stayinchannel=true
 songinstatus=false
-token=NjI0NTcwNzA1Njg5NzA2NDk3.XYS60g.373GKKm0Sk5fOywZv0LkNm3ytS8
+token=NjE2MDc4NDAxOTcwNzY1ODM4.XWXVww.IpcLRpNOGqIJzDAXy_SJ-MAGhGM

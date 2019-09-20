@@ -1,0 +1,6 @@
+owner=255429901891403778
+prefix=l
+game=Lion
+stayinchannel=true
+songinstatus=false
+token=NjI0NTcwNzA1Njg5NzA2NDk3.XYS60g.373GKKm0Sk5fOywZv0LkNm3ytS8
